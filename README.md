@@ -4,7 +4,8 @@ Course project which required solving object detection task for traffic signs. A
 Annotated data is taken from https://www.kaggle.com/datasets/watchman/rtsd-dataset
 
 The model's metrics:
-![metrics](https://github.com/specialo0/YOLO_TraficSignDestroyer/assets/88432149/baacbd6a-d0ad-489c-bedf-8c201b1be6f8)
+<img src="[https://cloud.githubusercontent.com/assets/yourgif.gif](https://github.com/specialo0/YOLO_TraficSignDestroyer/assets/88432149/baacbd6a-d0ad-489c-bedf-8c201b1be6f8)" width="400" height="790">
+
 
 Examples of predicts:
 ![ex1](https://github.com/specialo0/YOLO_TraficSignDestroyer/assets/88432149/a42d42dd-af76-4c8d-88aa-90e77017f5bf)
